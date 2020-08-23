@@ -1,0 +1,171 @@
+div .titulo1{
+	position: relative;
+	color: #ce71eb;
+	font-family: candara;
+	font-size: 45px;
+
+}
+
+.img23{
+	padding: 3px;
+	position: relative;
+	left: 30px;
+}
+.img23:hover{
+	transform: scale(1.2);
+}
+.img23{
+	transition: all 0.5s ease;
+}
+
+.img24{
+	padding: 3px;
+	position: relative;
+	left: 30px;
+}
+.img24:hover{
+	transform: scale(1.2);
+}
+.img24{
+	transition: all 0.5s ease;
+}
+
+.img26{
+	padding: 3px;
+	position: relative;
+	left: 30px;
+}
+.img26:hover{
+	transform: scale(1.2);
+}
+.img26{
+	transition: all 0.5s ease;
+}
+
+.img27{
+	padding: 3px;
+	position: relative;
+	left: 30px;
+}
+.img27:hover{
+	transform: scale(1.2);
+}
+.img27{
+	transition: all 0.5s ease;
+}
+
+.img31{
+	padding: 3px;
+	position: relative;
+	left: 30px;
+}
+.img31:hover{
+	transform: scale(1.2);
+}
+.img31{
+	transition: all 0.5s ease;
+}
+
+.img22{
+	padding: 10px;
+	position: relative;
+	left: 30px;
+}
+.img22:hover{
+	transform: scale(1.2);
+}
+.img22{
+	transition: all 0.5s ease;
+}
+
+.imga{
+	padding: 10px;
+	position: relative;
+	left: 30px;
+}
+.imga:hover{
+	transform: scale(1.2);
+}
+.imga{
+	transition: all 0.5s ease;
+}
+
+.img34{
+	padding: 10px;
+	position: relative;
+	left: 14px;
+}
+.img34:hover{
+	transform: scale(1.2);
+}
+.img34{
+	transition: all 0.5s ease;
+}
+
+.img30{
+	padding: 10px;
+}
+.img30:hover{
+	transform: scale(1.2);
+}
+.img30{
+	transition: all 0.5s ease;
+}
+
+.img35{
+	padding: 10px;
+	position: relative;
+	left: 5px;
+}
+.img35:hover{
+	transform: scale(1.2);
+}
+.img35{
+	transition: all 0.5s ease;
+}
+
+.img36{
+	padding: 8px;
+	position: relative;
+	left: 0px;
+}
+.img36:hover{
+	transform: scale(1.2);
+}
+.img36{
+	transition: all 0.5s ease;
+}
+
+.vid34{
+	position: relative;
+}
+.vid34:hover{
+	transform: scale(1.2);
+}
+.vid34{
+	transition: all 0.5s ease;
+}
+
+.img37{
+	padding: 10px;
+	position: relative;
+	left: 980px;
+	top: -300px;
+}
+.img37:hover{
+	transform: scale(1.2);
+}
+.img37{
+	transition: all 0.5s ease;
+}
+
+.final{
+	font-family: candara;
+	font-size: 20px;
+	top: -300px;
+}
+.final5{
+	position: relative;
+	top: -200px;
+	background-color: rgb(0%, 60%, 70%);
+}
